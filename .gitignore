@@ -1,0 +1,6 @@
+.idea/
+.venv/
+___pycache__
+.vs/
+bin/
+obj/
