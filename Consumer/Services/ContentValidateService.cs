@@ -6,7 +6,6 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Consumer.Models;
 namespace Consumer.Services;
 
 
@@ -32,6 +31,7 @@ public class ContentValidateService
     }
     public bool CheckForSubjectsAppear(ReportModel Report)
     {
+        _logger.LogInformation("enter to CheckForSubjectsAppear");
         if ((!string.IsNullOrWhiteSpace(Report.subjectType) && (Report.subjectId is null))
             || (string.IsNullOrWhiteSpace(Report.subjectType) && (Report.subjectId is not null)))
         {
@@ -43,8 +43,9 @@ public class ContentValidateService
     }
     public bool ValidateAllFields(ReportModel Report)
     {
+        _logger.LogInformation("enter to validate all fields function");
         if (!CheckForNullOrWhiteSpace(Report)) { return false; }
-        if (!CheckForSubjectAppear(Report)) { return false; }
+        if (!CheckForSubjectsAppear(Report)) { return false; }
         if (!CheckForValidValuesInCategory(Report)) { return false; }
         if (!CheckForValidDateTime(Report)) { return false; }
         return true;

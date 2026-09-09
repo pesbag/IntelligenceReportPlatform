@@ -1,19 +1,23 @@
-﻿using System;
-using Confluent.Kafka;
+﻿using Confluent.Kafka;
+using Consumer.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using System;
 namespace Consumer.Service;
 public class ConsumerService
 {
     private readonly ILogger<ConsumerService> _logger;
-    public ConsumerService(ILogger<ConsumerService> logger) 
+    private readonly ContentValidateService _validator;
+    public ConsumerService(ILogger<ConsumerService> logger, ContentValidateService validator) 
     {
         _logger = logger;
+        _validator = validator;
     }
     public void ConsumingData()
     {
+        ContentValidateService ContentValidation = new ContentValidateService(ILogger<ContentValidateService>);
         string bootstrapServers = Environment.GetEnvironmentVariable("BOOTSTRAP_SERVERS")!; // ?? "broker:9092"
 
         var config = new ConsumerConfig
@@ -45,7 +49,7 @@ public class ConsumerService
 
                     Console.WriteLine($"received Partition: {consumeResult.Partition}, offset: {consumeResult.Offset}]");
                     Console.WriteLine($"data: {messagePayload}");
-                    //validata
+                    bool validRow = _validator.isValidRow(messagePayload);
                 }
                 catch (ConsumeException ex)
                 {
