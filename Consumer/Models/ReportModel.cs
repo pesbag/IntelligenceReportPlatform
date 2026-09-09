@@ -12,11 +12,11 @@ namespace Consumer.Models;
 public class ReportModel
 {
     [Required]
-    public int reportId { get; set; }
+    public string reportId { get; set; } = string.Empty;
     [Required]
-    public DateTime timestamp { get; set; }
+    public string timestamp { get; set; } = string.Empty;
     [Required]
-    public int agentId { get; set; }
+    public string agentId { get; set; } = string.Empty;
     [Required]
     public string unit { get; set; } = string.Empty;
     [Required]
@@ -36,6 +36,7 @@ public class ReportModel
     [Required]
     public string message { get; set; } = string.Empty;
     [Required]
-    public int? subjectId { get; set; }
+    public string? subjectId { get; set; }
     public string? subjectType { get; set; }
+    public DateTime createdAt { get; set; }
 }

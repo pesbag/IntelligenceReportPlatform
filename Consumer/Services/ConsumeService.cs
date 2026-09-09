@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Elastic.Clients.Elasticsearch;
 using System;
 namespace Consumer.Service;
 public class ConsumerService
@@ -15,9 +16,8 @@ public class ConsumerService
         _logger = logger;
         _validator = validator;
     }
-    public void ConsumingData()
+    public async Task ConsumingData()
     {
-        ContentValidateService ContentValidation = new ContentValidateService(ILogger<ContentValidateService>);
         string bootstrapServers = Environment.GetEnvironmentVariable("BOOTSTRAP_SERVERS")!; // ?? "broker:9092"
 
         var config = new ConsumerConfig
@@ -50,20 +50,26 @@ public class ConsumerService
                     Console.WriteLine($"received Partition: {consumeResult.Partition}, offset: {consumeResult.Offset}]");
                     Console.WriteLine($"data: {messagePayload}");
                     bool validRow = _validator.isValidRow(messagePayload);
+                    if (!validRow) { continue; }
+                    await _validator.SaveToESAsync(messagePayload);
                 }
                 catch (ConsumeException ex)
                 {
+                    _logger.LogError($"Error: {ex.Message}");
                     Console.WriteLine($"error consuming message: {ex.Error.Reason}");
                 }
             }
         }
-        catch (OperationCanceledException)
+        catch (OperationCanceledException ex)
         {
+            _logger.LogError($"Error: {ex.Message}");
             Console.WriteLine("closing consumer application...");
         }
         finally
         {
+            _logger.LogInformation("closing the consumer");
             consumer.Close();
         }
     }
+    
 }
