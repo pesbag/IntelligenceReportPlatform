@@ -18,25 +18,85 @@ public class ElasticSearchRepository: IElasticSearchRepository
         _logger = logger;
         _client = client;
     }
-    public async Task<IEnumerable<ReportModel>> GetReportsByTextAsync(string textToSearch)
+    public async Task<IEnumerable<ReportModel>> SearchCombinedReportsAsync(ReportSearchRequestDto filter)
     {
-        _logger.LogInformation("enter to GetReportsByTextAsync function");
+        _logger.LogInformation("Entering SearchCombinedReportsAsync with parameters: {@Filter}", filter);
+
+        var cleanPriorities = filter.Priorities?
+            .Where(p => !string.IsNullOrWhiteSpace(p))
+            .Select(FieldValue.String)
+            .ToArray();
+
         var response = await _client.SearchAsync<ReportModel>(s => s
-        .Indices(IndexName)
-        .Query(q => q
-            .Match(t => t
-                .Field(x=>x.message)
-                .Query(textToSearch)
+            .Indices(IndexName)
+            .Query(q => q
+                .Bool(b =>
+                {
+                    if (!string.IsNullOrWhiteSpace(filter.Text))
+                    {
+                        b.Must(m => m
+                            .Match(t => t
+                                .Field(x => x.message)
+                                .Query(filter.Text)
+                            )
+                        );
+                    }
+
+                    if (!string.IsNullOrWhiteSpace(filter.Theater))
+                    {
+                        b.Filter(f => f.Match(m => m.Field(x => x.theater).Query(filter.Theater)));
+                    }
+
+                    if (!string.IsNullOrWhiteSpace(filter.Sector))
+                    {
+                        b.Filter(f => f.Match(m => m.Field(x => x.sector).Query(filter.Sector)));
+                    }
+
+                    if (!string.IsNullOrWhiteSpace(filter.Location))
+                    {
+                        b.Filter(f => f.Match(m => m.Field(x => x.location).Query(filter.Location)));
+                    }
+
+                    if (!string.IsNullOrWhiteSpace(filter.ReportType))
+                    {
+                        b.Filter(f => f.Match(m => m.Field(x => x.reportType).Query(filter.ReportType)));
+                    }
+
+                    if (cleanPriorities != null && cleanPriorities.Length > 0)
+                    {
+                        b.Filter(f => f
+                            .Terms(t => t
+                                .Field(fld => fld.priority)
+                                .Terms(new TermsQueryField(cleanPriorities))
+                            )
+                        );
+                    }
+
+                    if (filter.From.HasValue || filter.To.HasValue)
+                    {
+                        b.Filter(f => f
+                            .Range(r => r
+                                .DateRange(d =>
+                                {
+                                    d.Field(m => m.timestamp);
+                                    if (filter.From.HasValue) d.Gte(filter.From.Value);
+                                    if (filter.To.HasValue) d.Lte(filter.To.Value);
+                                })
+                            )
+                        );
+                    }
+                })
             )
-        )
-    );
+        );
+
         if (!response.IsValidResponse)
         {
-            _logger.LogError("Error while asking resposne");
-            throw new InvalidOperationException($"Elasticsearch query failed: {response.DebugInformation}");
+            throw new InvalidOperationException($"Elasticsearch combined search failed: {response.DebugInformation}");
         }
+
         return response.Documents.ToList();
     }
+
     public async Task<IEnumerable<ReportModel>> GetBysubjectSortedByTimeAsync(string subjectNumber)
     {
         _logger.LogInformation("enter to GetBysubjectSortedByTimeAsync function");
@@ -166,4 +226,5 @@ public class ElasticSearchRepository: IElasticSearchRepository
 
         return summary;
     }
+
 }

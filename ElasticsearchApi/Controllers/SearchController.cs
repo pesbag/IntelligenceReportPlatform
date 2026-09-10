@@ -1,7 +1,8 @@
 using Elastic.Clients.Elasticsearch;
+using ElasticsearchApi.Dtos;
 using ElasticsearchApi.Models;
-using Microsoft.AspNetCore.Mvc;
 using ElasticsearchApi.Repository;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ElasticsearchApi.Controllers;
 
@@ -19,11 +20,11 @@ public class SearchController : ControllerBase
     }
 
     [HttpGet("api/reports/search")]
-    public async Task<ActionResult<IEnumerable<ReportModel>>> SearchMessageByTExtAsync([FromQuery] string text)
+    public async Task<ActionResult<IEnumerable<ReportModel>>> SearchMessageByTExtAsync([FromQuery] ReportSearchRequestDto filter)
     {
         _logger.LogInformation("Enter to SearchMessageByTextAsync function in controller");
-        var result = await _client.GetReportsByTextAsync(text);
-        return Ok(result);
+        var reports = await _client.SearchCombinedReportsAsync(filter);
+        return Ok(reports);
     }
 
     [HttpGet("api/subject{subjectId}/reports")]
@@ -35,11 +36,7 @@ public class SearchController : ControllerBase
     }
 
     [HttpGet("api/reports")]
-    public async Task<ActionResult<IEnumerable<ReportModel>>> SearchGivenParams(
-    [FromQuery] string? sector,
-    [FromQuery] string? location,
-    [FromQuery] string? theater,
-    [FromQuery] string[]? priorities,
+    public async Task<ActionResult<IEnumerable<ReportModel>>> SearchGivenParams([FromQuery] string? sector,[FromQuery] string? location,[FromQuery] string? theater,[FromQuery] string[]? priorities,
     [FromQuery] DateTime? from,
     [FromQuery] DateTime? to)
     {
@@ -53,4 +50,5 @@ public class SearchController : ControllerBase
         var result = await _client.GetStatisticsAggregationAsync();
         return Ok(result);
     }
+ 
 }
