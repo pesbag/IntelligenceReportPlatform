@@ -6,4 +6,5 @@ namespace ElasticsearchApi.Repository;
 public interface IElasticSearchRepository
 {
     Task<IEnumerable<ReportModel>?> GetReportsByTextAsync([FromQuery] string wordToSearch);
+    Task<IEnumerable<ReportModel>?> GetBysubjectSortedByTimeAsync(string subjectNumber);
 }

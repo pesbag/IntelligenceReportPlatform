@@ -1,0 +1,121 @@
+2026-09-10 07:45:15.104 +00:00 [INF] Now listening on: http://[::]:8080
+2026-09-10 07:45:15.141 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-10 07:45:15.143 +00:00 [INF] Hosting environment: Production
+2026-09-10 07:45:15.144 +00:00 [INF] Content root path: /app
+2026-09-10 07:45:41.493 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - null null
+2026-09-10 07:45:41.536 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - 301 0 null 44.9632ms
+2026-09-10 07:45:41.545 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-09-10 07:45:41.610 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 65.2ms
+2026-09-10 07:45:41.761 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-09-10 07:45:41.837 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 76.999ms
+2026-09-10 07:45:53.667 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/reports/search?text=transform - null null
+2026-09-10 07:45:53.676 +00:00 [WRN] Failed to determine the https port for redirect.
+2026-09-10 07:45:53.683 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:45:53.715 +00:00 [INF] Route matched with {action = "SearchMessageByTExt", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageByTExtAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 07:45:53.771 +00:00 [INF] Enter to SearchMessageByTextAsync
+2026-09-10 07:45:53.775 +00:00 [INF] enter to GetReportsByTextAsync function
+2026-09-10 07:45:54.153 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 07:45:54.166 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi) in 444.9729ms
+2026-09-10 07:45:54.168 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:45:54.170 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/reports/search?text=transform - 200 null application/json; charset=utf-8 503.4041ms
+2026-09-10 07:46:06.594 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/reports/search?text=follow - null null
+2026-09-10 07:46:06.596 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:46:06.597 +00:00 [INF] Route matched with {action = "SearchMessageByTExt", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageByTExtAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 07:46:06.600 +00:00 [INF] Enter to SearchMessageByTextAsync
+2026-09-10 07:46:06.601 +00:00 [INF] enter to GetReportsByTextAsync function
+2026-09-10 07:46:06.634 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 07:46:06.637 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi) in 38.8213ms
+2026-09-10 07:46:06.639 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:46:06.641 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/reports/search?text=follow - 200 null application/json; charset=utf-8 46.5699ms
+2026-09-10 07:46:29.234 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/reports/search?text=Transform - null null
+2026-09-10 07:46:29.237 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:46:29.239 +00:00 [INF] Route matched with {action = "SearchMessageByTExt", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageByTExtAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 07:46:29.241 +00:00 [INF] Enter to SearchMessageByTextAsync
+2026-09-10 07:46:29.242 +00:00 [INF] enter to GetReportsByTextAsync function
+2026-09-10 07:46:29.252 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 07:46:29.254 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi) in 13.9447ms
+2026-09-10 07:46:29.255 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:46:29.256 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/reports/search?text=Transform - 200 null application/json; charset=utf-8 21.746ms
+2026-09-10 07:47:06.306 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/reports/search?text=Transport - null null
+2026-09-10 07:47:06.308 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:47:06.309 +00:00 [INF] Route matched with {action = "SearchMessageByTExt", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageByTExtAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 07:47:06.311 +00:00 [INF] Enter to SearchMessageByTextAsync
+2026-09-10 07:47:06.312 +00:00 [INF] enter to GetReportsByTextAsync function
+2026-09-10 07:47:06.325 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 07:47:06.326 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi) in 15.7898ms
+2026-09-10 07:47:06.327 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageByTExtAsync (ElasticsearchApi)'
+2026-09-10 07:47:06.328 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/reports/search?text=Transport - 200 null application/json; charset=utf-8 21.521ms
+2026-09-10 07:47:22.924 +00:00 [INF] Application is shutting down...
+2026-09-10 08:10:25.993 +00:00 [INF] Now listening on: http://[::]:8080
+2026-09-10 08:10:26.044 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-10 08:10:26.046 +00:00 [INF] Hosting environment: Production
+2026-09-10 08:10:26.047 +00:00 [INF] Content root path: /app
+2026-09-10 08:11:43.721 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-09-10 08:11:43.785 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 65.0761ms
+2026-09-10 08:11:43.972 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-09-10 08:11:44.061 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.8269ms
+2026-09-10 08:12:50.239 +00:00 [INF] Application is shutting down...
+2026-09-10 08:13:30.067 +00:00 [INF] Now listening on: http://[::]:8080
+2026-09-10 08:13:30.106 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-10 08:13:30.107 +00:00 [INF] Hosting environment: Production
+2026-09-10 08:13:30.108 +00:00 [INF] Content root path: /app
+2026-09-10 08:14:33.367 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-09-10 08:14:33.452 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 86.3624ms
+2026-09-10 08:14:33.529 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-09-10 08:14:33.613 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 84.3383ms
+2026-09-10 08:14:39.497 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/subjectPER-044/reports - null null
+2026-09-10 08:14:39.505 +00:00 [WRN] Failed to determine the https port for redirect.
+2026-09-10 08:14:39.510 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:14:39.536 +00:00 [INF] Route matched with {action = "SearchMessageBySubjectIdAscending", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageBySubjectIdAscendingAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 08:14:39.570 +00:00 [INF] enter to SearchMessageBySubjectIdAscendingAsync function in controller
+2026-09-10 08:14:39.574 +00:00 [INF] enter to GetBysubjectSortedByTimeAsync function
+2026-09-10 08:14:39.725 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 08:14:39.736 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi) in 195.2103ms
+2026-09-10 08:14:39.740 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:14:39.743 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/subjectPER-044/reports - 200 null application/json; charset=utf-8 245.58ms
+2026-09-10 08:15:21.342 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/subjectVEH-218/reports - null null
+2026-09-10 08:15:21.343 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:15:21.345 +00:00 [INF] Route matched with {action = "SearchMessageBySubjectIdAscending", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageBySubjectIdAscendingAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 08:15:21.349 +00:00 [INF] enter to SearchMessageBySubjectIdAscendingAsync function in controller
+2026-09-10 08:15:21.351 +00:00 [INF] enter to GetBysubjectSortedByTimeAsync function
+2026-09-10 08:15:21.359 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 08:15:21.360 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi) in 13.1079ms
+2026-09-10 08:15:21.361 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:15:21.362 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/subjectVEH-218/reports - 200 null application/json; charset=utf-8 20.0785ms
+2026-09-10 08:15:34.932 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/subjectLOC-021/reports - null null
+2026-09-10 08:15:34.934 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:15:34.941 +00:00 [INF] Route matched with {action = "SearchMessageBySubjectIdAscending", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageBySubjectIdAscendingAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 08:15:34.944 +00:00 [INF] enter to SearchMessageBySubjectIdAscendingAsync function in controller
+2026-09-10 08:15:34.946 +00:00 [INF] enter to GetBysubjectSortedByTimeAsync function
+2026-09-10 08:15:34.951 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 08:15:34.952 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi) in 9.5193ms
+2026-09-10 08:15:34.953 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:15:34.954 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/subjectLOC-021/reports - 200 null application/json; charset=utf-8 21.9729ms
+2026-09-10 08:16:21.904 +00:00 [INF] Application is shutting down...
+2026-09-10 08:16:49.398 +00:00 [INF] Now listening on: http://[::]:8080
+2026-09-10 08:16:49.440 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-10 08:16:49.441 +00:00 [INF] Hosting environment: Production
+2026-09-10 08:16:49.442 +00:00 [INF] Content root path: /app
+2026-09-10 08:16:53.336 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-09-10 08:16:53.398 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 64.104ms
+2026-09-10 08:16:53.486 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-09-10 08:16:53.576 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 90.4884ms
+2026-09-10 08:17:07.725 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/subjectLOC-021/reports - null null
+2026-09-10 08:17:07.737 +00:00 [WRN] Failed to determine the https port for redirect.
+2026-09-10 08:17:07.742 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:17:07.765 +00:00 [INF] Route matched with {action = "SearchMessageBySubjectIdAscending", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageBySubjectIdAscendingAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 08:17:07.795 +00:00 [INF] enter to SearchMessageBySubjectIdAscendingAsync function in controller
+2026-09-10 08:17:07.799 +00:00 [INF] enter to GetBysubjectSortedByTimeAsync function
+2026-09-10 08:17:07.980 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 08:17:07.989 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi) in 221.5778ms
+2026-09-10 08:17:07.991 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:17:07.994 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/subjectLOC-021/reports - 200 null application/json; charset=utf-8 268.9783ms
+2026-09-10 08:17:18.875 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/subjectVEH-218/reports - null null
+2026-09-10 08:17:18.877 +00:00 [INF] Executing endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:17:18.878 +00:00 [INF] Route matched with {action = "SearchMessageBySubjectIdAscending", controller = "Search"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ElasticsearchApi.Models.ReportModel]]] SearchMessageBySubjectIdAscendingAsync(System.String) on controller ElasticsearchApi.Controllers.SearchController (ElasticsearchApi).
+2026-09-10 08:17:18.881 +00:00 [INF] enter to SearchMessageBySubjectIdAscendingAsync function in controller
+2026-09-10 08:17:18.882 +00:00 [INF] enter to GetBysubjectSortedByTimeAsync function
+2026-09-10 08:17:18.894 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ElasticsearchApi.Models.ReportModel, ElasticsearchApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-09-10 08:17:18.895 +00:00 [INF] Executed action ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi) in 16.1695ms
+2026-09-10 08:17:18.896 +00:00 [INF] Executed endpoint 'ElasticsearchApi.Controllers.SearchController.SearchMessageBySubjectIdAscendingAsync (ElasticsearchApi)'
+2026-09-10 08:17:18.897 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/subjectVEH-218/reports - 200 null application/json; charset=utf-8 22.1226ms

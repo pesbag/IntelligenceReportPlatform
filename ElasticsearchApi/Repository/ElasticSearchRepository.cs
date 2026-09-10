@@ -28,11 +28,34 @@ public class ElasticSearchRepository: IElasticSearchRepository
             )
         )
     );
-        if (response.IsValidResponse)
+        if (!response.IsValidResponse)
         {
-            return response.Documents.ToList();
+            _logger.LogError("Error while asking resposne");
+            throw new InvalidOperationException($"Elasticsearch query failed: {response.DebugInformation}");
         }
-        _logger.LogError("Error while asking resposne");
-        return null;
+        return response.Documents.ToList();
+    }
+    public async Task<IEnumerable<ReportModel>?> GetBysubjectSortedByTimeAsync(string subjectNumber)
+    {
+        _logger.LogInformation("enter to GetBysubjectSortedByTimeAsync function");
+        var response = await _client.SearchAsync<ReportModel>(s => s
+        .Indices(IndexName)
+        .Query(q => q
+            .Match(t => t
+                .Field(x => x.subjectId)
+                .Query(subjectNumber)
+                )
+            )
+
+            .Sort(s => s
+          .Field(f => f.timestamp, new FieldSort { Order = SortOrder.Asc })
+          )
+        );
+        if (!response.IsValidResponse)
+        {
+            _logger.LogError("Error while asking resposne");
+            throw new InvalidOperationException($"Elasticsearch query failed: {response.DebugInformation}");
+        }
+        return response.Documents.ToList();
     }
 }
