@@ -1,4 +1,6 @@
 ﻿using Elastic.Clients.Elasticsearch;
+using Elastic.Clients.Elasticsearch.QueryDsl;
+using ElasticsearchApi.Dtos;
 using ElasticsearchApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using static System.Net.Mime.MediaTypeNames;
@@ -58,49 +60,45 @@ public class ElasticSearchRepository: IElasticSearchRepository
         }
         return response.Documents.ToList();
     }
-    public async Task<IEnumerable<ReportModel>> GetByCriteriaReportsAsync(string? Sector,string? Location, string? Theater)
+    public async Task<IEnumerable<ReportModel>> GetReportsAsync(string? sector,string? location, string? theater, IEnumerable<string>? priorities, DateTime? from, DateTime? to)
     {
-        _logger.LogInformation("enter to GetByCriteriaReportsAsync function");
-        var response = await _client.SearchAsync<ReportModel>(s => s
-         .Indices(IndexName)
-         .Query(q => q
-             .Bool(b =>
-             {
-                 if (!string.IsNullOrWhiteSpace(Sector))
-                 {
-                     b.Must(m => m.Match(t => t.Field(f => f.sector).Query(Sector)));
-                 }
+        _logger.LogInformation("Executing SearchReportsAsync function");
 
-                 if (!string.IsNullOrWhiteSpace(Location))
-                 {
-                     b.Must(m => m.Match(t => t.Field(f => f.location).Query(Location)));
-                 }
-
-                 if (!string.IsNullOrWhiteSpace(Theater))
-                 {
-                     b.Must(m => m.Match(t => t.Field(f => f.theater).Query(Theater)));
-                 }
-             })
-         )
-     );
-        if (!response.IsValidResponse)
-        {
-            _logger.LogError("Error while asking resposne");
-            throw new InvalidOperationException($"Elasticsearch criteria search failed: {response.DebugInformation}");
-        }
-
-        return response.Documents.ToList();
-    }
-    public async Task<IEnumerable<ReportModel>> GetReportByPriorityAndTimeRangeAsync(DateTime? from, DateTime? to, string? prior)
-    {
-        _logger.LogInformation("Entering GetReportByPriorityAndTimeRangeAsync with From: {From}, To: {To}, Priority: {Priority}",
-            from, to, prior);
+        var cleanPriorities = priorities?
+            .Where(p => !string.IsNullOrWhiteSpace(p))
+            .Select(FieldValue.String)
+            .ToArray();
 
         var response = await _client.SearchAsync<ReportModel>(s => s
             .Indices(IndexName)
             .Query(q => q
                 .Bool(b =>
                 {
+                    if (!string.IsNullOrWhiteSpace(sector))
+                    {
+                        b.Must(m => m.Match(t => t.Field(f => f.sector).Query(sector)));
+                    }
+
+                    if (!string.IsNullOrWhiteSpace(location))
+                    {
+                        b.Must(m => m.Match(t => t.Field(f => f.location).Query(location)));
+                    }
+
+                    if (!string.IsNullOrWhiteSpace(theater))
+                    {
+                        b.Must(m => m.Match(t => t.Field(f => f.theater).Query(theater)));
+                    }
+
+                    if (cleanPriorities != null && cleanPriorities.Length > 0)
+                    {
+                        b.Filter(f => f
+                            .Terms(t => t
+                                .Field(fld => fld.priority)
+                                .Terms(new TermsQueryField(cleanPriorities))
+                            )
+                        );
+                    }
+
                     if (from.HasValue || to.HasValue)
                     {
                         b.Filter(f => f
@@ -114,25 +112,58 @@ public class ElasticSearchRepository: IElasticSearchRepository
                             )
                         );
                     }
-
-                    if (!string.IsNullOrWhiteSpace(prior))
-                    {
-                        b.Filter(f => f
-                            .Match(m => m
-                                .Field(x => x.priority)
-                                .Query(prior)
-                            )
-                        );
-                    }
                 })
             )
         );
 
         if (!response.IsValidResponse)
         {
-            throw new InvalidOperationException($"Elasticsearch criteria search failed: {response.DebugInformation}");
+            throw new InvalidOperationException($"Elasticsearch combined search failed: {response.DebugInformation}");
         }
 
         return response.Documents.ToList();
+    }
+
+    public async Task<AggregationSummaryDto> GetStatisticsAggregationAsync()
+    {
+        _logger.LogInformation("Entering GetReportByPriorityAndTimeRangeAsync function");
+
+        var response = await _client.SearchAsync<ReportModel>(s => s
+            .Indices(IndexName)
+            .Size(0)
+            .Aggregations(a => a
+                .Add("ReportsType", agg => agg.Terms(t => t.Field(f => f.reportType)))
+                .Add("Priority", agg => agg.Terms(t => t.Field(f => f.priority)))
+                .Add("Theater", agg => agg.Terms(t => t.Field(f => f.theater)))
+            )
+        );
+
+        if (!response.IsValidResponse)
+        {
+            _logger.LogError("Error while asking resposne");
+            throw new InvalidOperationException($"Aggregation failed: {response.DebugInformation}");
+        }
+
+        var summary = new AggregationSummaryDto();
+
+        var typeBuckets = response.Aggregations.GetStringTerms("ReportsType")?.Buckets;
+        if (typeBuckets != null)
+        {
+            summary.ReportsByType = typeBuckets.ToDictionary(b => b.Key.ToString(), b => b.DocCount);
+        }
+
+        var priorityBuckets = response.Aggregations.GetStringTerms("Priority")?.Buckets;
+        if (priorityBuckets != null)
+        {
+            summary.ReportsByPriority = priorityBuckets.ToDictionary(b => b.Key.ToString(), b => b.DocCount);
+        }
+
+        var theaterBuckets = response.Aggregations.GetStringTerms("Theater")?.Buckets;
+        if (theaterBuckets != null)
+        {
+            summary.ReportsByTheater = theaterBuckets.ToDictionary(b => b.Key.ToString(), b => b.DocCount);
+        }
+
+        return summary;
     }
 }

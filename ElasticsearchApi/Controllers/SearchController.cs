@@ -35,21 +35,22 @@ public class SearchController : ControllerBase
     }
 
     [HttpGet("api/reports")]
-    public async Task<ActionResult<IEnumerable<ReportModel>>> SearchByCriteria(
+    public async Task<ActionResult<IEnumerable<ReportModel>>> SearchGivenParams(
     [FromQuery] string? sector,
     [FromQuery] string? location,
-    [FromQuery] string? theater)
+    [FromQuery] string? theater,
+    [FromQuery] string[]? priorities,
+    [FromQuery] DateTime? from,
+    [FromQuery] DateTime? to)
     {
-        var results = await _client.GetByCriteriaReportsAsync(sector, location, theater);
+        var results = await _client.GetReportsAsync(sector, location, theater, priorities, from, to);
         return Ok(results);
     }
-    [HttpGet("api/report/sort-by-date")]
-    public async Task<ActionResult<IEnumerable<ReportModel>>> SearchByPrioirtyAndDate(
-        [FromQuery] DateTime? from,
-        [FromQuery] DateTime? to,
-        [FromQuery] string? priority)
+   
+    [HttpGet("api/reports/statistics")]
+    public async Task<ActionResult<IEnumerable<ReportModel>>> GetAllStatisticsAsync()
     {
-        var result = await _client.GetReportByPriorityAndTimeRangeAsync(from, to, priority);
+        var result = await _client.GetStatisticsAggregationAsync();
         return Ok(result);
     }
 }

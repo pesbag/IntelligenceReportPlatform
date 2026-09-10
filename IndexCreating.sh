@@ -10,7 +10,7 @@ curl -X PUT "http://elasticsearch:9200/reports-logs" \
     "mappings": {
       "properties": {
         "reportId":    { "type": "keyword" },
-        "timestamp":   { "type": "@timestamp" },
+        "timestamp":   { "type": "date" },
         "agentId":     { "type": "keyword" },
         "unit":        { "type": "keyword" },
         "theater":     { "type": "keyword" },
@@ -22,7 +22,7 @@ curl -X PUT "http://elasticsearch:9200/reports-logs" \
         "message":     { "type": "text" },
         "subjectId":   { "type": "keyword" },
         "subjectType": { "type": "keyword" },
-	"processedAt": {"type":"@timestamp"}
+	      "processedAt": {"type":"date"}
       }
     }
   }'
