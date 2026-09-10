@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-string esURL = Environment.GetEnvironmentVariable("ELASTICSEARCH_URL")!;
+string esURL = Environment.GetEnvironmentVariable("ELASTICSEARCH_URL") ?? "http://elasticsearch:9200";
 var settings = new ElasticsearchClientSettings(new Uri(esURL))
     .DefaultIndex("reports-logs");
 var host = Host.CreateDefaultBuilder(args)

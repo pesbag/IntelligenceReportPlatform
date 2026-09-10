@@ -48,10 +48,9 @@ public class ContentValidateService
         bool hasType = !string.IsNullOrWhiteSpace(report.subjectType);
         bool hasId = !string.IsNullOrWhiteSpace(report.subjectId);
 
-        // XOR לוגי: אם אחד קיים והשני חסר
         if (hasType ^ hasId)
         {
-            _logger.LogWarning("Validation failed: 'subjectType' and 'subjectId' must either both appear or both be omitted.");
+            _logger.LogWarning("Validation failed: 'subjectType' and 'subjectId' must either both appear or both be omitted");
             return false;
         }
 
