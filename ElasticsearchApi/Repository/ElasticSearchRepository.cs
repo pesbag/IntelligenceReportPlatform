@@ -16,7 +16,7 @@ public class ElasticSearchRepository: IElasticSearchRepository
         _logger = logger;
         _client = client;
     }
-    public async Task<IEnumerable<ReportModel>?> GetReportsByTextAsync([FromQuery] string textToSearch)
+    public async Task<IEnumerable<ReportModel>> GetReportsByTextAsync(string textToSearch)
     {
         _logger.LogInformation("enter to GetReportsByTextAsync function");
         var response = await _client.SearchAsync<ReportModel>(s => s
@@ -35,7 +35,7 @@ public class ElasticSearchRepository: IElasticSearchRepository
         }
         return response.Documents.ToList();
     }
-    public async Task<IEnumerable<ReportModel>?> GetBysubjectSortedByTimeAsync(string subjectNumber)
+    public async Task<IEnumerable<ReportModel>> GetBysubjectSortedByTimeAsync(string subjectNumber)
     {
         _logger.LogInformation("enter to GetBysubjectSortedByTimeAsync function");
         var response = await _client.SearchAsync<ReportModel>(s => s
@@ -56,6 +56,39 @@ public class ElasticSearchRepository: IElasticSearchRepository
             _logger.LogError("Error while asking resposne");
             throw new InvalidOperationException($"Elasticsearch query failed: {response.DebugInformation}");
         }
+        return response.Documents.ToList();
+    }
+    public async Task<IEnumerable<ReportModel>> GetByCriteriaReportsAsync(string? Sector,string? Location, string? Theater)
+    {
+        _logger.LogInformation("enter to GetByCriteriaReportsAsync function");
+        var response = await _client.SearchAsync<ReportModel>(s => s
+         .Indices(IndexName)
+         .Query(q => q
+             .Bool(b =>
+             {
+                 if (!string.IsNullOrWhiteSpace(Sector))
+                 {
+                     b.Must(m => m.Match(t => t.Field(f => f.sector).Query(Sector)));
+                 }
+
+                 if (!string.IsNullOrWhiteSpace(Location))
+                 {
+                     b.Must(m => m.Match(t => t.Field(f => f.location).Query(Location)));
+                 }
+
+                 if (!string.IsNullOrWhiteSpace(Theater))
+                 {
+                     b.Must(m => m.Match(t => t.Field(f => f.theater).Query(Theater)));
+                 }
+             })
+         )
+     );
+        if (!response.IsValidResponse)
+        {
+            _logger.LogError("Error while asking resposne");
+            throw new InvalidOperationException($"Elasticsearch criteria search failed: {response.DebugInformation}");
+        }
+
         return response.Documents.ToList();
     }
 }

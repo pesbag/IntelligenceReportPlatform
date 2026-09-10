@@ -33,4 +33,14 @@ public class SearchController : ControllerBase
         var result = await _client.GetBysubjectSortedByTimeAsync(subjectId);
         return Ok(result);
     }
+
+    [HttpGet("api/reports")]
+    public async Task<ActionResult<IEnumerable<ReportModel>>> GetByCriteria(
+    [FromQuery] string? sector,
+    [FromQuery] string? location,
+    [FromQuery] string? theater)
+    {
+        var results = await _client.GetByCriteriaReportsAsync(sector, location, theater);
+        return Ok(results);
+    }
 }
