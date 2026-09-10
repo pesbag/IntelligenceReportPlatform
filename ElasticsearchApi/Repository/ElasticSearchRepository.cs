@@ -91,4 +91,48 @@ public class ElasticSearchRepository: IElasticSearchRepository
 
         return response.Documents.ToList();
     }
+    public async Task<IEnumerable<ReportModel>> GetReportByPriorityAndTimeRangeAsync(DateTime? from, DateTime? to, string? prior)
+    {
+        _logger.LogInformation("Entering GetReportByPriorityAndTimeRangeAsync with From: {From}, To: {To}, Priority: {Priority}",
+            from, to, prior);
+
+        var response = await _client.SearchAsync<ReportModel>(s => s
+            .Indices(IndexName)
+            .Query(q => q
+                .Bool(b =>
+                {
+                    if (from.HasValue || to.HasValue)
+                    {
+                        b.Filter(f => f
+                            .Range(r => r
+                                .DateRange(d =>
+                                {
+                                    d.Field(m => m.timestamp);
+                                    if (from.HasValue) d.Gte(from.Value);
+                                    if (to.HasValue) d.Lte(to.Value);
+                                })
+                            )
+                        );
+                    }
+
+                    if (!string.IsNullOrWhiteSpace(prior))
+                    {
+                        b.Filter(f => f
+                            .Match(m => m
+                                .Field(x => x.priority)
+                                .Query(prior)
+                            )
+                        );
+                    }
+                })
+            )
+        );
+
+        if (!response.IsValidResponse)
+        {
+            throw new InvalidOperationException($"Elasticsearch criteria search failed: {response.DebugInformation}");
+        }
+
+        return response.Documents.ToList();
+    }
 }
