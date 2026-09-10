@@ -1,0 +1,2490 @@
+2026-09-10 07:20:26.279 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.373 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.378 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.380 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.393 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.539 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.541 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.543 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.545 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.546 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.547 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.557 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.558 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.560 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.560 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.561 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.562 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.574 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.575 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.575 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.576 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.576 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.577 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.585 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.586 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.587 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.588 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.589 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.589 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.598 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.599 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.600 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.600 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.601 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.601 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.608 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.609 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.610 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.610 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.611 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.612 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.619 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.620 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.622 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.623 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.623 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.624 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.631 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.632 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.633 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.633 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.634 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.635 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.641 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.642 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.643 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.643 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.644 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.644 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.653 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.654 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.655 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.656 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.656 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.657 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.663 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.664 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.664 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.665 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.665 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.666 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.671 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.672 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.673 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.674 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.674 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.675 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.681 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.682 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.682 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.683 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.683 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.683 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.689 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.690 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.690 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.691 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.691 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.692 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.697 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.698 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.698 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.699 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.699 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.700 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.705 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.706 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.707 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.707 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.708 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.708 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.714 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.715 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.716 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.717 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.717 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.718 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.725 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.726 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.727 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.727 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.729 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.729 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.735 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.737 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.737 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.738 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.738 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.739 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.744 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.745 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.746 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.746 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.747 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.747 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.754 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.755 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.756 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.756 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.757 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.758 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.764 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.765 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.766 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.766 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.766 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.767 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.773 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.774 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.775 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.776 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.776 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.777 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.783 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.784 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.785 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.785 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.785 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.786 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.793 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.794 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.795 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.795 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.796 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.796 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.802 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.802 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.803 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.803 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.804 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.805 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.810 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.811 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.812 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.813 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.813 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.814 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.818 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.819 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.820 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.820 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.821 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.822 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.827 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.828 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.829 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.829 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.830 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.831 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.835 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.836 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.837 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.838 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.838 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.839 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.845 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.846 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.846 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.847 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.847 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.848 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.853 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.854 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.855 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.855 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.856 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.856 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.862 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.862 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.863 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.863 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.864 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.864 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.870 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.872 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.872 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.873 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.873 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.874 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.880 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.881 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.881 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.882 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.882 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.883 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.890 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.891 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.892 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.892 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.893 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.894 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.901 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.903 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.903 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.904 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.905 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.906 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.914 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.915 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.915 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.916 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.917 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.918 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.927 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.929 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.930 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.931 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.932 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.933 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.942 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.943 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.943 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.944 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.945 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.945 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.955 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.956 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.957 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.957 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.958 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.958 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.964 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.965 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.966 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.966 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.967 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.967 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.973 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.974 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.975 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.976 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.976 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.977 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.983 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.984 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.984 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.984 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.985 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.985 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:26.991 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:26.992 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:26.993 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.994 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:26.994 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:26.995 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.000 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.000 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.001 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.001 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.001 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.002 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.008 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.009 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.009 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.010 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.010 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.011 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.016 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.016 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.017 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.017 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.017 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.018 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.024 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.025 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.025 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.026 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.026 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.027 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.033 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.034 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.035 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.035 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.036 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.037 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.044 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.045 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.045 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.046 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.047 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.047 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.056 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.058 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.058 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.059 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.059 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.060 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.066 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.067 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.067 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.068 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.068 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.069 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.074 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.075 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.076 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.076 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.077 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.077 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.082 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.082 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.083 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.083 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.084 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.084 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.090 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.091 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.091 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.092 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.092 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.093 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.098 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.099 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.100 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.100 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.101 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.101 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.107 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.108 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.109 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.109 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.110 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.110 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.117 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.118 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.119 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.119 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.120 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.120 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.126 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.127 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.127 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.128 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.128 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.129 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.135 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.135 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.136 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.137 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.137 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.138 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.143 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.144 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.144 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.145 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.146 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.146 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.151 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.152 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.152 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.153 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.153 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.154 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.160 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.161 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.162 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.162 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.163 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.163 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.168 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.169 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.170 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.171 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.172 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.172 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.178 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.179 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.179 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.180 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.181 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.181 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.188 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.189 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.190 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.190 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.191 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.191 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.196 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.197 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.197 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.198 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.198 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.199 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.203 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.205 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.205 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.206 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.206 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.207 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.212 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.213 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.213 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.214 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.214 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.214 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.219 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.220 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.220 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.221 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.222 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.222 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.228 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.228 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.229 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.229 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.230 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.230 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.235 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.236 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.237 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.237 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.238 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.238 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.244 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.244 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.245 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.245 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.246 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.247 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.251 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.252 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.252 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.253 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.253 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.254 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.259 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.262 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.262 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.263 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.263 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.264 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.269 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.270 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.271 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.272 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.272 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.273 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.278 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.279 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.280 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.280 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.281 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.281 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.288 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.289 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.289 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.290 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.291 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.291 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.297 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.298 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.299 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.299 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.300 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.300 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.307 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.308 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.308 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.309 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.309 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.310 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.315 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.316 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.316 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.317 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.319 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.319 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.325 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.326 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.327 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.327 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.328 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.328 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.334 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.335 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.336 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.336 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.337 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.337 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.343 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.344 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.344 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.345 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.345 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.346 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.350 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.351 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.352 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.352 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.353 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.353 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.359 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.360 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.361 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.361 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.362 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.363 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.368 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.368 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.369 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.369 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.370 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.371 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.376 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.377 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.377 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.378 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.378 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.379 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.384 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.384 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.385 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.385 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.386 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.387 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.392 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.393 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.394 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.394 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.395 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.395 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.400 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.401 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.401 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.402 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.402 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.403 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.410 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.411 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.412 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.413 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.413 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.414 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.421 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.422 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.423 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.423 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.423 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.424 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.431 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.432 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.432 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.433 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.433 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.434 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.439 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.440 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.441 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.441 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.442 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.442 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.447 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.448 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.449 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.449 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.449 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.450 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.456 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.456 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.457 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.457 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.458 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.458 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.464 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.465 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.465 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.466 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.466 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.467 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.472 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.473 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.473 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.474 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.474 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.475 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.480 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.481 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.481 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.482 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.482 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.483 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.488 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.489 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.490 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.490 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.490 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.491 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.496 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.497 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.497 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.498 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.498 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.499 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.504 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.505 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.506 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.506 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.507 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.507 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.513 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.514 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.514 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.514 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.515 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.515 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.521 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.522 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.523 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.524 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.524 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.525 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.531 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.532 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.532 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.533 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.534 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.535 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.542 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.543 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.544 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.544 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.545 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.546 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.551 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.552 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.553 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.553 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.554 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.555 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.560 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.561 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.562 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.562 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.563 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.563 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.569 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.570 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.571 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.571 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.572 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.572 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.577 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.578 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.579 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.579 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.580 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.580 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.585 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.586 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.587 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.587 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.588 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.588 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.593 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.594 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.595 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.595 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.596 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.596 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.601 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.602 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.602 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.603 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.603 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.604 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.610 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.610 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.611 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.611 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.612 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.612 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.617 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.618 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.618 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.619 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.619 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.620 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.626 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.627 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.628 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.629 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.629 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.630 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.635 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.636 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.636 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.638 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.638 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.639 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.646 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.647 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.648 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.648 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.649 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.650 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.656 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.657 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.658 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.659 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.659 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.660 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.666 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.667 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.667 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.668 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.668 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.669 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.675 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.676 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.677 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.678 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.679 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.679 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.687 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.688 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.689 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.690 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.690 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.691 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.697 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.697 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.698 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.699 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.699 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.700 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.706 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.707 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.708 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.708 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.709 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.710 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.715 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.716 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.716 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.717 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.717 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.718 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.724 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.725 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.727 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.728 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.728 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.729 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.734 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.734 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.735 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.736 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.737 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.737 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.743 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.744 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.744 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.745 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.745 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.746 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.750 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.751 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.751 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.752 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.752 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.753 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.758 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.759 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.760 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.760 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.761 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.761 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.768 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.768 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.769 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.769 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.770 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.771 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.776 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.777 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.778 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.778 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.779 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.779 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.784 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.784 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.785 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.785 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.786 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.786 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.792 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.793 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.793 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.794 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.794 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.795 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.799 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.800 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.800 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.801 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.801 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.802 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.808 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.809 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.809 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.810 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.810 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.810 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.815 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.815 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.816 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.816 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.817 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.817 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.823 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.824 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.825 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.825 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.826 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.826 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.832 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.833 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.834 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.834 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.835 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.835 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.841 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.842 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.843 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.844 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.844 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.845 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.850 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.851 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.852 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.852 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.853 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.853 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.861 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.862 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.863 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.863 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.863 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.864 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.869 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.870 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.870 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.871 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.871 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.872 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.877 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.878 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.879 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.879 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.879 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.880 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.884 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.885 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.886 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.887 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.887 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.887 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.894 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.895 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.896 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.897 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.897 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.898 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.905 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.906 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.906 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.907 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.908 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.908 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.913 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.914 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.915 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.915 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.916 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.917 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.922 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.923 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.924 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.925 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.925 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.926 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.931 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.932 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.933 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.933 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.934 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.934 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.940 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.941 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.941 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.942 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.942 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.943 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.948 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.949 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.950 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.950 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.951 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.952 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.959 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.960 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.961 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.961 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.962 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.963 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.969 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.970 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.971 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.972 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.972 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.973 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.979 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.980 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.980 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.981 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.981 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.982 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:27.987 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:27.988 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:27.989 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.989 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:27.990 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:27.990 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.002 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.004 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.004 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.005 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.005 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.006 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.011 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.012 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.013 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.013 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.013 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.014 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.018 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.020 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.020 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.021 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.021 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.022 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.028 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.028 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.029 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.030 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.030 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.030 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.035 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.036 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.037 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.038 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.038 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.039 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.045 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.046 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.047 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.047 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.048 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.048 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.053 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.054 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.054 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.055 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.055 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.056 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.061 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.062 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.062 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.063 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.063 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.064 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.069 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.071 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.071 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.072 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.072 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.073 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.078 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.079 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.079 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.080 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.080 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.080 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.085 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.086 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.086 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.087 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.087 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.088 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.093 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.094 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.094 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.095 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.095 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.096 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.101 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.101 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.102 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.102 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.103 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.104 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.110 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.111 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.112 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.112 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.113 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.113 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.118 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.119 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.119 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.120 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.121 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.121 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.126 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.127 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.128 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.128 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.129 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.129 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.134 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.135 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.136 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.136 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.137 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.137 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.147 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.148 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.148 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.149 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.149 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.150 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.155 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.156 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.156 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.157 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.157 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.158 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.164 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.165 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.165 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.165 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.166 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.166 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.172 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.173 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.174 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.174 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.175 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.175 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.181 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.182 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.182 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.183 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.183 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.183 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.189 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.190 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.191 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.191 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.192 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.192 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.198 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.199 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.200 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.200 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.200 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.201 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.206 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.207 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.207 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.208 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.208 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.209 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.214 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.215 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.215 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.215 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.216 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.216 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.222 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.223 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.223 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.224 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.224 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.224 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.231 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.231 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.232 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.232 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.233 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.233 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.239 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.240 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.240 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.241 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.241 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.242 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.247 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.248 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.248 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.249 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.249 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.250 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.255 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.256 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.256 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.257 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.257 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.258 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.264 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.265 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.266 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.266 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.266 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.267 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.272 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.273 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.274 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.274 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.275 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.275 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.280 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.281 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.282 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.282 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.282 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.283 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.288 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.289 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.290 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.290 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.291 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.291 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.296 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.297 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.298 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.298 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.298 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.299 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.304 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.305 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.306 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.307 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.307 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.308 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.313 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.314 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.314 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.315 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.316 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.316 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.322 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.322 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.323 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.323 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.324 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.324 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.330 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.331 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.331 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.332 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.332 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.332 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.338 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.339 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.339 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.340 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.340 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.341 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.346 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.347 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.347 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.348 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.348 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.349 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.354 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.355 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.356 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.356 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.357 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.357 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.365 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.365 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.366 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.366 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.367 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.367 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.373 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.374 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.374 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.375 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.375 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.375 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.380 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.381 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.381 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.382 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.382 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.382 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.387 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.388 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.389 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.389 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.390 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.390 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.396 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.396 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.397 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.397 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.398 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.398 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.403 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.404 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.405 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.405 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.406 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.406 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.413 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.414 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.414 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.415 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.415 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.415 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.421 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.422 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.422 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.423 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.423 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.424 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.429 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.430 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.430 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.431 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.432 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.432 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.440 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.441 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.441 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.442 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.442 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.443 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.448 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.449 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.450 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.450 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.451 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.451 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.457 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.458 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.458 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.459 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.459 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.460 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.466 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.466 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.467 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.468 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.468 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.469 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.474 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.475 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.476 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.476 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.478 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.478 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.483 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.484 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.485 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.485 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.486 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.487 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.492 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.493 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.493 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.494 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.494 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.495 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.501 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.502 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.502 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.503 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.503 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.504 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.509 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.510 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.511 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.511 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.512 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.513 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.517 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.518 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.518 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.519 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.519 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.520 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.525 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.526 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.527 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.527 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.528 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.528 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.533 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.533 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.534 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.534 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.534 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.535 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.541 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.542 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.543 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.543 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.544 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.544 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.550 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.550 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.551 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.551 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.552 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.552 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.558 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.559 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.561 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.561 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.562 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.562 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.568 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.568 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.569 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.569 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.570 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.571 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.576 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.577 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.578 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.578 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.579 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.579 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.583 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.584 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.584 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.585 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.585 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.586 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.591 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.592 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.592 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.593 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.594 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.594 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.600 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.601 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.601 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.601 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.602 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.602 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.608 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.609 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.609 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.609 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.610 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.610 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.615 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.616 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.616 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.617 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.617 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.617 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.623 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.623 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.624 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.624 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.625 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.625 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.632 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.633 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.633 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.634 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.634 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.635 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.640 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.641 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.642 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.642 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.642 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.643 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.647 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.648 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.648 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.649 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.649 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.650 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.656 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.657 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.657 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.658 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.658 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.659 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.664 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.665 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.665 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.666 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.666 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.667 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.672 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.673 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.674 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.675 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.675 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.676 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.683 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.683 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.684 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.685 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.685 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.686 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.691 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.692 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.693 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.693 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.693 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.694 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.700 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.701 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.702 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.702 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.703 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.703 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.710 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.711 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.712 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.712 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.713 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.713 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.718 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.719 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.720 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.721 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.721 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.722 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.727 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.728 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.729 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.729 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.729 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.730 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.735 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.736 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.737 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.737 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.738 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.738 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.762 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.763 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.764 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.765 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.766 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.767 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.775 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.776 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.777 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.777 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.778 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.779 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.787 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.788 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.789 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.790 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.791 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.792 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.800 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.801 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.802 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.802 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.803 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.804 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.811 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.813 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.813 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.814 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.815 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.816 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.824 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.825 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.826 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.827 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.828 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.829 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.837 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.838 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.839 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.840 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.841 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.841 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.850 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.851 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.851 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.852 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.852 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.853 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.858 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.859 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.860 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.860 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.861 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.861 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.867 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.867 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.868 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.869 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.869 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.870 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.877 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.878 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.879 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.879 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.880 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.880 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.885 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.886 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.887 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.888 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.888 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.889 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.895 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.897 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.897 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.898 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.898 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.899 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.905 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.906 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.906 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.907 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.907 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.908 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.914 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.915 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.915 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.916 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.916 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.916 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.921 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.922 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.922 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.923 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.923 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.924 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.929 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.930 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.930 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.931 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.932 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.933 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.939 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.940 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.940 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.941 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.941 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.942 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.949 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.950 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.950 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.951 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.951 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.951 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.957 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.958 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.959 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.959 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.960 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.960 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.965 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.966 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.967 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.968 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.968 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.969 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.975 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.975 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.976 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.977 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.977 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.978 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.982 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.983 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.983 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.984 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.984 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.984 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.990 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.991 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.991 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.992 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:28.992 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:28.992 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:28.998 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:28.999 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:28.999 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.000 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.001 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.002 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.007 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.008 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.008 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.009 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.009 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.010 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.016 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.017 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.017 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.018 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.018 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.019 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.025 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.025 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.026 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.026 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.027 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.027 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.033 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.034 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.034 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.035 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.036 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.036 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.041 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.042 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.043 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.043 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.044 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.045 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.051 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.052 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.053 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.054 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.055 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.056 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.063 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.064 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.065 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.066 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.067 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.068 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.077 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.078 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.079 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.079 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.080 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.081 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.087 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.088 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.089 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.089 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.090 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.090 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.096 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.097 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.097 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.098 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.098 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.099 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.104 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.105 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.105 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.106 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.106 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.107 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.112 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.113 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.114 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.114 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.115 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.115 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.120 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.121 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.122 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.122 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.123 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.123 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.128 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.129 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.129 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.130 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.130 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.131 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.137 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.138 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.139 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.139 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.139 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.140 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.145 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.146 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.147 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.147 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.148 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.149 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.154 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.155 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.156 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.156 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.156 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.157 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.162 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.162 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.163 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.164 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.164 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.165 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.170 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.171 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.172 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.172 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.173 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.173 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.179 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.180 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.180 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.181 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.181 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.182 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.186 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.187 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.188 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.188 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.189 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.190 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.196 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.197 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.197 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.198 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.198 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.199 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.206 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.207 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.207 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.208 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.209 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.209 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.216 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.217 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.217 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.218 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.219 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.219 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.226 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.227 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.228 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.228 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.229 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.229 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.235 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.236 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.237 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.238 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.238 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.239 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.245 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.246 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.247 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.247 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.248 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.248 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.255 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.256 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.257 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.257 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.258 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.259 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.266 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.268 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.269 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.269 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.270 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.271 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.277 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.279 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.279 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.280 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.280 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.281 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.289 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.291 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.292 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.292 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.294 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.296 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.304 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.306 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.306 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.307 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.308 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.308 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.316 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.317 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.318 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.319 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.319 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.320 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.328 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.329 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.330 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.330 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.331 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.331 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.336 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.337 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.337 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.338 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.338 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.339 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.344 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.345 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.345 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.346 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.346 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.347 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.351 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.352 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.352 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.353 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.353 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.354 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.359 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.360 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.361 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.361 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.361 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.362 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.367 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.367 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.367 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.368 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.368 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.369 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.375 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.376 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.376 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.377 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.377 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.378 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.383 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.384 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.384 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.384 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.385 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.385 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.391 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.392 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.393 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.393 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.393 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.394 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.399 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.399 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.399 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.400 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.400 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.401 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.406 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.407 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.408 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.408 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.409 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.409 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.414 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.415 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.415 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.416 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.416 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.417 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.422 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.423 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.424 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.425 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.425 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.426 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.431 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.431 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.432 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.432 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.433 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.433 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.439 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.440 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.440 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.441 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.441 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.442 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.447 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.448 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.449 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.449 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.449 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.450 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.456 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.457 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.458 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.458 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.459 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.460 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.467 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.468 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.469 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.469 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.471 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.471 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.477 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.478 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.479 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.479 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.480 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.480 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.489 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.490 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.490 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.491 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.491 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.492 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.497 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.498 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.499 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.499 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.500 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.500 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.505 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.506 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.507 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.507 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.508 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.508 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.513 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.514 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.514 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.515 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.515 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.516 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.522 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.523 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.524 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.524 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.525 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.525 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.532 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.533 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.533 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.534 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.534 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.535 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.540 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.541 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.541 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.542 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.542 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.543 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.548 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.549 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.549 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.550 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.550 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.550 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.556 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.557 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.557 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.558 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.558 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.558 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.564 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.565 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.565 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.566 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.566 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.567 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.572 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.573 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.574 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.574 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.575 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.575 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.580 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.581 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.582 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.582 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.583 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.583 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.588 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.589 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.590 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.590 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.591 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.591 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.596 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.597 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.597 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.598 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.598 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.599 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.604 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.604 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.605 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.605 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.606 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.606 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.611 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.612 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.612 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.613 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.613 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.614 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.621 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.622 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.623 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.623 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.624 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.624 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.629 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.630 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.630 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.631 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.631 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.632 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.636 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.637 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.638 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.638 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.639 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.639 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.644 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.645 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.645 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.646 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.646 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.646 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.651 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.652 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.652 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.653 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.654 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.654 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.660 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.661 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.661 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.661 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.662 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.662 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.667 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.667 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.667 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.668 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.668 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.669 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.675 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.676 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.676 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.677 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.677 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.677 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.683 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.684 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.684 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.685 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.685 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.685 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.691 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.692 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.692 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.693 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.693 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.694 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.698 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.699 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.699 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.699 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.700 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.700 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.706 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.707 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.707 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.708 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.708 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.709 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.713 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.714 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.714 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.714 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.715 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.715 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.720 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.721 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.721 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.722 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.722 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.723 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.728 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.728 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.729 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.730 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.730 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.730 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.736 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.737 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.738 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.739 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.739 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.740 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.745 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.746 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.746 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.747 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.747 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.748 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.753 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.754 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.754 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.755 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.756 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.756 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.761 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.762 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.763 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.763 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.763 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.764 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.771 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.772 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.773 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.773 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.774 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.774 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.780 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.781 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.781 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.782 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.782 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.782 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.788 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.789 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.790 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.790 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.791 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.791 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.799 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.800 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.800 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.801 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.801 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.802 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.807 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.808 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.809 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.810 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.810 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.811 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.817 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.818 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.818 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.819 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.819 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.820 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.826 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.827 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.828 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.828 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.829 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.829 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.834 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.835 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.836 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.837 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.838 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.838 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.846 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.847 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.848 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.849 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.849 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.850 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.856 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.857 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.858 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.858 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.859 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.859 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.864 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.865 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.866 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.867 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.868 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.868 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.875 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.876 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.877 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.878 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.878 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.879 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.884 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.885 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.886 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.887 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.888 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.888 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.894 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.895 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.896 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.896 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.897 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.898 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.905 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.906 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.907 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.907 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.908 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.909 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.916 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.917 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.918 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.919 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.920 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.921 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.929 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.930 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.931 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.932 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.932 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.933 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.941 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.942 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.943 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.943 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.944 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.946 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.954 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.954 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.955 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.956 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.956 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.957 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.963 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.964 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.964 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.965 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.966 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.966 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.974 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.974 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.975 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.975 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.976 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.976 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.983 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.983 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.984 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.985 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.985 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.986 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:29.991 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:29.992 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:29.993 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.994 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:29.995 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:29.995 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.000 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.001 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.002 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.002 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.003 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.004 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.010 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.011 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.012 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.012 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.013 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.013 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.018 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.018 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.019 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.019 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.020 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.020 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.026 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.027 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.027 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.028 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.028 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.029 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.035 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.035 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.036 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.037 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.038 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.038 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.044 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.045 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.046 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.047 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.047 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.048 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.056 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.057 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.058 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.058 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.059 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.059 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.066 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.067 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.068 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.068 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.069 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.069 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.077 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.078 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.079 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.080 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.081 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.081 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.087 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.088 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.088 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.089 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.089 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.090 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.095 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.096 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.097 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.097 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.097 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.098 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.102 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.103 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.104 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.104 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.105 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.105 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.110 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.110 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.111 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.111 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.112 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.112 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.116 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.117 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.117 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.117 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.118 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.118 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.124 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.124 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.125 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.125 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.126 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.126 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.130 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.131 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.131 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.131 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.132 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.132 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.138 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.139 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.139 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.140 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.140 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.141 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.146 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.147 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.147 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.148 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.148 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.148 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.153 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.154 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.155 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.155 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.156 +00:00 [ERR] in report number: REP-0401 message is missing
+2026-09-10 07:20:30.156 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.157 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.157 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.158 +00:00 [ERR] in report number: REP-0402 unit is missing
+2026-09-10 07:20:30.158 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.158 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.159 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.159 +00:00 [ERR] in report number: REP-0403 sourceType is missing
+2026-09-10 07:20:30.160 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.160 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.160 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.161 +00:00 [ERR] in report number: REP-0404 message is missing
+2026-09-10 07:20:30.161 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.162 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.162 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.163 +00:00 [ERR] in report number: REP-0405 threater is missing
+2026-09-10 07:20:30.163 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.164 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.164 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.165 +00:00 [ERR] in report number: REP-0406 reportType is missing
+2026-09-10 07:20:30.165 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.166 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.166 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.167 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.167 +00:00 [ERR] Error: timestamp is not in leggal format
+2026-09-10 07:20:30.167 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.168 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.168 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.169 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.169 +00:00 [ERR] Error: timestamp is not in leggal format
+2026-09-10 07:20:30.170 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.170 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.171 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.171 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.172 +00:00 [ERR] error in report number REP-0409 priority is not leggal
+2026-09-10 07:20:30.172 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.172 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.173 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.173 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.174 +00:00 [ERR] error in report number REP-0410 priority is not leggal
+2026-09-10 07:20:30.174 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.175 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.175 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.175 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.176 +00:00 [ERR] error in report number REP-0411 reportType is not leggal
+2026-09-10 07:20:30.177 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.177 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.178 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.178 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.178 +00:00 [ERR] error in report number REP-0412 reportType is not leggal
+2026-09-10 07:20:30.179 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.179 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.180 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.180 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.180 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.185 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.186 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.187 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.187 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.188 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.188 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.193 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.194 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.194 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.195 +00:00 [WRN] Validation failed: 'subjectType' and 'subjectId' must either both appear or both be omitted
+2026-09-10 07:20:30.196 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.196 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.196 +00:00 [WRN] Validation failed: 'subjectType' and 'subjectId' must either both appear or both be omitted
+2026-09-10 07:20:30.197 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.197 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.198 +00:00 [WRN] Validation failed: 'subjectType' and 'subjectId' must either both appear or both be omitted
+2026-09-10 07:20:30.198 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.199 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.199 +00:00 [WRN] Validation failed: 'subjectType' and 'subjectId' must either both appear or both be omitted
+2026-09-10 07:20:30.199 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.200 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.200 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.200 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.201 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.206 +00:00 [INF] save message to reports-logs index
+2026-09-10 07:20:30.207 +00:00 [INF] enter to validation function for deserialize
+2026-09-10 07:20:30.207 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.208 +00:00 [INF] enter to validate all fields function
+2026-09-10 07:20:30.208 +00:00 [INF] Entering CheckForSubjectsAppear
+2026-09-10 07:20:30.209 +00:00 [INF] enter to SaveToESAsync func
+2026-09-10 07:20:30.213 +00:00 [INF] save message to reports-logs index

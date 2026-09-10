@@ -1,0 +1,9 @@
+﻿using ElasticsearchApi.Models;
+using Microsoft.AspNetCore.Mvc;
+
+namespace ElasticsearchApi.Repository;
+
+public interface IElasticSearchRepository
+{
+    Task<IEnumerable<ReportModel>?> GetReportsByTextAsync([FromQuery] string wordToSearch);
+}
